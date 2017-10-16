@@ -1,0 +1,26 @@
+
+> otrs-telegram-server@0.0.0 start /var/www/otrs-telegram-server
+> node ./bin/www
+
+[0mGET /notes/702 [32m200 [0m24.590 ms - -[0m
+[0mGET /notes/702 [32m200 [0m3.062 ms - -[0m
+Tudo certo!
+[0mGET /notes/702 [32m200 [0m2.986 ms - -[0m
+[0mGET /notes/702 [32m200 [0m2.834 ms - -[0m
+Show!
+[0mGET /notes/702 [32m200 [0m2.847 ms - -[0m
+[0mGET /notes/703 [32m200 [0m1.632 ms - -[0m
+[0mGET /notes/703 [32m200 [0m1.555 ms - -[0m
+Ei man, a data que tu mandou tá errada, deixa de ser burro!
+[0mGET /notes/703 [32m200 [0m3.842 ms - -[0m
+[0mGET /notes/704 [32m200 [0m0.635 ms - -[0m
+Apesar de eu achar que o odor seja oriundo do ar condicionado, vou
+providenciar solução.
+
+[0mGET /notes/704 [32m200 [0m0.887 ms - -[0m
+[0mGET /notes/707 [32m200 [0m83.777 ms - -[0m
+[0mGET /notes/707 [32m200 [0m1.179 ms - -[0m
+Chamado fechado
+[0mGET /notes/707 [32m200 [0m0.699 ms - -[0m
+GHGHKGHUV
+[0mGET /notes/707 [32m200 [0m0.794 ms - -[0m
